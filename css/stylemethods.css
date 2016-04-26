@@ -1,0 +1,30 @@
+
+body {
+  background-image: url("pineapple-background.jpg");no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: pink;
+}
+
+  .blog3 {
+    width: 380px;
+    height: 500px;
+    float: left;
+  }
+  .blog3 h1 {
+    text-align: center;
+  }
+  .blog3 img {
+    width: 375px;
+    height: auto;
+  }
+  .blog3 p {
+    text-align: justify;
+  }
+  .blog3 {
+    padding: 10px 10px 10px 10px;
+    margin: 10px 0px 10px 5px;
+    background-color: rgba(255,255,255,0.5);
+  }
